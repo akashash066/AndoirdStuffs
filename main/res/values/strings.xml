@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="mgmarg">
+        <![CDATA[
+<html>
+<head><head>
+<body style="text-align:justify;">
+<h1>Deorali, East Sikkim</h1>
+        <p>
+            Nestled in the lap of the Eastern Himalayas, Deorali in East Sikkim is a hidden gem waiting to be explored.
+            This quaint and picturesque locale is part of the capital city, Gangtok, and is renowned for its serene ambiance,
+            tunning views, and vibrant cultural heritage. Deorali serves as an excellent base for tourists seeking to explore th
+            e myriad attractions that East Sikkim has to offer. The area boasts a blend of natural beauty and cultural richness
+             that provides a unique experience for visitors.
+        </p>
+<h2>Tourist Spots in and around Deorali</h2>
+
+        <h3>1. Namgyal Institute of Tibetology</h3>
+        <p>
+            The Namgyal Institute of Tibetology is one of the most significant cultural institutions in Sikkim. Established in 1958, this institute is dedicated to the preservation and promotion of Tibetan culture and Buddhism. It houses a museum with an extensive collection of Tibetan artifacts, ancient manuscripts, thangkas (Tibetan religious paintings), and ritual objects. The institute also has a research library with a vast collection of books on Buddhism and Tibetan culture, making it a treasure trove for scholars and tourists alike. The serene environment of the institute adds to the overall experience, offering a peaceful retreat for visitors.
+        </p>
+
+        <h3>2. Do Drul Chorten</h3>
+        <p>
+            The Do Drul Chorten is one of the most important stupas in Sikkim. Built in 1945 under the supervision of the revered Trulshik Rinpoche, the stupa is a magnificent example of Buddhist architecture. It is surrounded by 108 prayer wheels, and the site is often thronged by devotees who come to spin the wheels and offer their prayers. The stupa is believed to hold a range of sacred objects, relics, and holy books. The tranquility of the area, combined with the spiritual ambiance, makes Do Drul Chorten a must-visit for anyone seeking a deeper understanding of Buddhism and Sikkimese culture.
+        </p>
+</body>
+</html>
+]]>
+    </string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
